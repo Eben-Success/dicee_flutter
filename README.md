@@ -8,6 +8,8 @@ Make a dice roll at the press of a bottom. With this app in your pocket, you'll 
 
 ## App Preview
 
+ Below is the preview of the dice app on an apple phone.
+
 ![dicee-demo](https://user-images.githubusercontent.com/71809927/154600458-aa52658d-65f8-4fb7-bb59-22a7e39ffd92.gif)
 
 
