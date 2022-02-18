@@ -1,10 +1,15 @@
 # dice_flutter
 
-Playing dice
+This app uses the functionalities of setState() and onPressed() inside StateFul Flutter widget.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make a dice roll at the press of a bottom. With this app in your pocket, you'll be able to settle any score on the go!
+
+## App Preview
+
+![dicee-demo](https://user-images.githubusercontent.com/71809927/154600458-aa52658d-65f8-4fb7-bb59-22a7e39ffd92.gif)
+
 
 A few resources to get you started if this is your first Flutter project:
 
